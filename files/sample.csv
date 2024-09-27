@@ -1,0 +1,4 @@
+chat_name	msg	status
+chat1	"hello, how are you"	delivered
+chat2	 hello how ar eyoy	not-delivered
+chat1	ok	wrong-in-sendin
